@@ -308,12 +308,17 @@
         text-align: center;
         margin-left: 2%;
         width: 60px;
-        margin-top: 20px;
+        margin-top: 25px;
     }
 
 
     #clock {
       overflow: hidden;
+    }
+
+    #days_of_week .dom {
+        position: relative;
+        left: 90px;
     }
 }
 
