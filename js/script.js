@@ -72,7 +72,7 @@ function weekCheck() {
             sat.classList.add("active");
             break;
 
-        case 7:
+        case 0:
             sun.classList.add("active");
             break;
 
